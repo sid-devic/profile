@@ -16,4 +16,4 @@ fi
 # To use this script, we must first install ssh-server on our local machine, 
 # then change the default port to 10022. We then call the following on our remote accessor:
 # ssh -p 1922 -t 159.203.183.245 'ssh localhost -p 10022'
-#
+# https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/
