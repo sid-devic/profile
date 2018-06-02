@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COUNTER=1
+COUNTER=11772
 
 while [  $COUNTER -lt 65535 ]; do
 
